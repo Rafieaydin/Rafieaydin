@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Hei Sir, Can i help you with a code?"</b></h4>
+  <h4 align="center"><b>"Hello, Can i help you with a code?"</b></h4>
 </p>
 
 
